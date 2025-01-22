@@ -10,9 +10,8 @@
     },
     "dependencies": {
         "@contentful/rich-text-react-renderer": "^15.21.2",
-        "@springboard-components/button": "^0.0.10",
+        "@springboard-components/button": "^1.0.32",
         "@springboard-components/input": "^0.0.2",
-        "@springboard-components/migration-runner": "^0.0.1",
         "contentful": "^10.12.2",
         "contentful-migration": "^4.27.0",
         "lodash": "^4.17.21",
